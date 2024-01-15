@@ -18,13 +18,13 @@ The program does the following:
 3.Returns or displays a list of integers derived from the input list. Items at positions that are multiples of both 2 and 3 are removed from the result.
 
 ## The Test Suite:
-Test Cases to test the written program icludes the following test cases
+To test the written program icludes the following test cases
    1. Valid output on valid input
    2. If the list length is not a multiple of 10
    3. Empty list
 
 ## Test Results
-After running dune runtest in the respectcive folder got the following result:
+After running dune runtest in the respectcive folder will get the following result:
 ![Test Suite Results](https://github.com/IIITM-Jay/filterListOcaml/blob/main/filterListTestSuite.png)
 
 
