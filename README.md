@@ -2,13 +2,14 @@
 A simple filter operation on a list in OCaml
 
 ## Folder Structure
-ocmal_project/
-
+```
+ocaml_project/
 |-- main.ml             (* Main source file containing the program logic *)
 |-- test_cases.ml       (* Test suite for the project *)
 |-- dune
 |-- dune-project        (* Project metadata file *)
 |-- README.md           (* Project documentation or README file *)
+```
 
 ## The Program Logic
 The program does the following:
@@ -24,6 +25,8 @@ Test Cases to test the written program icludes the following test cases
 
 ## Test Results
 After running dune runtest in the respectcive folder got the following result:
+![Test Suite Results](https://github.com/IIITM-Jay/filterListOcaml/blob/main/filterListTestSuite.png)
+
 
 
 
